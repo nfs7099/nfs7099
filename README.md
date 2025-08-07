@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there! I'm **Nafis Aslam** 👋 or you can call me **nfs** (that's my name without vowels 😅 and resembles my favourite pc game from college days)
 
-<!--
-**nfs7099/nfs7099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 **Data Engineer | GenAI Enthusiast**
+- 🧠 Currently working on **Text2SQL** and **Advanced Retrieval-Augmented Generation (RAG) Systems**.
+- 📚 Currently learning **Agentic AI** and exploring its applications.
+- 🌱 Passionate about building AI-powered solutions with a focus on Data Engineering, Machine Learning, and AI.
+- 💬 How to reach me: [nafisrcc@gmail.com](mailto:nafisrcc@gmail.com)
 
-Here are some ideas to get you started:
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/nafis-aslam-322873157)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I Use
+I work across a wide range of tools and technologies that enable me to build scalable and efficient solutions in data engineering and AI. Here's a list of the tools I frequently use:
+
+### Development & Computation
+- **Languages**: Python, Java
+- **Frameworks & Tools**: Snowflake, Spark, Airflow, Elastic Search, Prefect, Docker, Kubernetes
+- **Machine Learning**: Experienced in building and deploying ML models
+
+### Cloud-Based Implementations
+- **AWS Services**: AWS EMR, Glue, Lambda, SNS, SQS, EC2, Athena
+
+### Database Environment
+- **Databases**: MySQL, DynamoDB, Hive, Snowflake, Redshift, Postgres
+
+### Visualization
+- **Visualization Tools**: AWS QuickSight, Apache Superset
+
+### Development Environment
+- **IDEs**: Intellij, Eclipse, PyCharm, VSCode
+
+## Certifications
+Here are some of the certifications I have earned:
+- **AWS Cloud Technology Consultant Specialization** (Certified)
+- **SQL Advanced** (Certified by Hackerrank)
+- **Machine Learning Specialization** (Certified by Coursera)
+- **Effective Stakeholder Communications for Technology Professionals** (by Skillspft)
+- **AWS Migration Ambassador for Business** (Certified)
+- **AWS Partner: Accreditation (Technical)** (Certified)
+- **Snowflake SnowPro Core** (Certified)
+- **Python Language Gold Badge** (Hackerrank)
+
+## Projects
+🚧 **Coming Soon** 🚧  
+I'm currently working on several exciting projects, and I will be updating this section soon with details and links to my repositories.
+
+## Fun Fact
+🎮 I once spent an entire weekend playing **nfs-NeedForSpeed** (my all-time favorite from college) — still can’t get enough of it! 😅
