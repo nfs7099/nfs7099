@@ -13,12 +13,18 @@
 I work across a wide range of tools and technologies that enable me to build scalable and efficient solutions in data engineering and AI. Here's a list of the tools I frequently use:
 
 ### Development & Computation
-- **Languages**: Python, Java
-- **Frameworks & Tools**: Snowflake, Spark, Airflow, Elastic Search, Prefect, Docker, Kubernetes
-- **Machine Learning**: Experienced in building and deploying ML models
+- **Languages**: Python, Java, Scala, SQL
+- **Frameworks & Tools**: Snowflake, Spark, Airflow, Kafka, Elastic Search, Prefect, Docker, Kubernetes, DBT, Databricks
+
+### GenAI Technologies
+- **Text2SQL**: Building solutions for transforming natural language to SQL queries.
+- **Retrieval-Augmented Generation (RAG)**: Developing advanced RAG systems for information retrieval and AI-powered responses.
+- **LangChain & LangGraph**: Leveraging these frameworks for building GenAI applications and enhancing prompt engineering workflows.
+- **Vector Databases**: Using vector databases for managing and querying large-scale embeddings.
+- **RAGAS Framework**: Implementing the RAGAS framework for more efficient and accurate AI solutions.
 
 ### Cloud-Based Implementations
-- **AWS Services**: AWS EMR, Glue, Lambda, SNS, SQS, EC2, Athena
+- **AWS Services**: AWS EMR, Glue, Lambda, SNS, SQS, EC2, Athena etc.
 
 ### Database Environment
 - **Databases**: MySQL, DynamoDB, Hive, Snowflake, Redshift, Postgres
@@ -28,6 +34,9 @@ I work across a wide range of tools and technologies that enable me to build sca
 
 ### Development Environment
 - **IDEs**: Intellij, Eclipse, PyCharm, VSCode
+
+### Infrastructure Automation
+- **Terraform**: Managing cloud infrastructure as code.
 
 ## Certifications
 Here are some of the certifications I have earned:
