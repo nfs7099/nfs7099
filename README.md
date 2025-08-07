@@ -40,14 +40,14 @@ I work across a wide range of tools and technologies that enable me to build sca
 
 ## Certifications
 Here are some of the certifications I have earned:
-- **AWS Cloud Technology Consultant Specialization** (Certified)
-- **SQL Advanced** (Certified by Hackerrank)
-- **Machine Learning Specialization** (Certified by Coursera)
-- **Effective Stakeholder Communications for Technology Professionals** (by Skillspft)
-- **AWS Migration Ambassador for Business** (Certified)
-- **AWS Partner: Accreditation (Technical)** (Certified)
-- **Snowflake SnowPro Core** (Certified)
-- **Python Language Gold Badge** (Hackerrank)
+- 🌐 **AWS Cloud Technology Consultant Specialization** (Certified)
+- 💻 **SQL Advanced** (Certified by Hackerrank)
+- 📊 **Machine Learning Specialization** (Certified by Coursera)
+- 🗣️ **Effective Stakeholder Communications for Technology Professionals** (by Skillspft)
+- 🌍 **AWS Migration Ambassador for Business** (Certified)
+- 🏅 **AWS Partner: Accreditation (Technical)** (Certified)
+- 🔑 **Snowflake SnowPro Core** (Certified)
+- 🥇 **Python Language Gold Badge** (Hackerrank)
 
 ## Projects
 🚧 **Coming Soon** 🚧  
