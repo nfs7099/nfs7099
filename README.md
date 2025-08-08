@@ -1,4 +1,4 @@
-# Hi there! I'm **Nafis Aslam** 👋 or you can call me **nfs** (that's my name without vowels 😅 and resembles my favourite pc game from college days)
+# Hi there! I'm  <span style="color:blue">some *blue* text</span>  **Nafis Aslam** 👋 or you can call me **nfs** (that's my name without vowels 😅 and resembles my favourite pc game from college days)
 
 - 💻 **Data Engineer | GenAI Enthusiast**
 - 🧠 Currently working on **Text2SQL** and **Advanced Retrieval-Augmented Generation (RAG) Systems**.
